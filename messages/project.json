@@ -1,0 +1,11 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Microsoft.Bot.Builder.Azure": "3.2.1",
+        "System.ServiceModel": "1.0.0",
+        "WindowsAzure.ServiceBus": "4.0.0"
+      }
+    }
+   }
+}
